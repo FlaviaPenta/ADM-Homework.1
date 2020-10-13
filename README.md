@@ -1,2 +1,3 @@
 # Homework-1
-homeworks with Hackerrank
+Homeworks with Hackerrank to be done individually
+
